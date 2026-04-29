@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+data/bronze/
+data/silver/
+data/gold/
+*.parquet
+*.log
+.DS_Store
